@@ -35,12 +35,3 @@ out/
 
 ### VS Code ###
 .vscode/
-
-### H2 Database ###
-data/
-*.db
-*.mv.db
-
-### Application Configuration ###
-src/main/resources/application.properties
-src/main/resources/application-*.properties
